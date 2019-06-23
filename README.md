@@ -1,2 +1,2 @@
 # hello-world-servlet
-HHHHHHHHHHelloWorld Servlet repo example with
+HHHHHHHHHHelloWorld Servlet repo example 
